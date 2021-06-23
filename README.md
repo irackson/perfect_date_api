@@ -1,4 +1,4 @@
-# The Perfect Date (Rails API)
+# The Perfect Date (Rails API) [![wakatime](https://wakatime.com/badge/github/irackson/perfect_date_api.svg)](https://wakatime.com/badge/github/irackson/perfect_date_api)
 
 ## Frontend URLS
 
